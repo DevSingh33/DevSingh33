@@ -3,8 +3,7 @@
     👋 Hi, I’m @DevSingh33
     👀 I’m interested in ... APP DEVELOPMENT
     🌱 I’m currently learning ... FLUTTER
-    💞️ I’m looking to collaborate on ...
-    📫 How to reach me ...
+    
 
 
 
