@@ -1,8 +1,8 @@
 # 💫About Me :
 
-    👋 Hi, I’m @DevSingh33
+    👋 Hi, I’m Devender Singh
     👀 I’m interested in ... APP DEVELOPMENT
-    🌱 I’m currently learning ... FLUTTER
+    🌱 I’m currently learning ... FLUTTER, DART
     
 
 
