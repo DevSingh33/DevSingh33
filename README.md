@@ -2,7 +2,7 @@
 
     👋 Hi, I’m Devender Singh
     👀 I’m interested in ... APP DEVELOPMENT
-    🌱 I’m currently learning ... FLUTTER, DART
+    🌱 I’m currently learning ... FLUTTER, DART, Node Js, Javascript
     
 
 
