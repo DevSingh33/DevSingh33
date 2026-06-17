@@ -13,12 +13,13 @@ I build production mobile apps — from on-device ML and custom BLE systems to f
 | App | What it does | Links |
 |---|---|---|
 | **HRSaathi** | Enterprise HRMS SaaS — attendance, payroll, leaves, GPS tracking, 15+ modules | [Website](https://hrsaathi.com) · [Play Store](https://play.google.com/store/apps/details?id=com.hrsaathi.coreapp) · [App Store](https://apps.apple.com/in/app/hrsaathi-simplified-hrms/id6745489821) |
-| **HRSaathi Mirror** | Face recognition attendance. Replaces dedicated face recognition attendance hardware — turning any smartphone into a biometric attendance device. | — |
+| **HRSaathi Mirror** | Face recognition attendance. Replaces dedicated face recognition attendance hardware — turning any smartphone into a biometric attendance device. | [Play Store](https://play.google.com/store/apps/details?id=com.hrsaathi.mirror.coreapp) |
 | **Token Exchange** | BLE-powered hospitality & ride platform — offline auth, dual-flavor | — |
 | **Numerology Suite** | 14+ calculators, PDF reports — React Native, full store submission | [Play Store](https://play.google.com/store/apps/details?id=com.numerologysuite.core) |
-| **SplitEV** | EV charging discovery & booking for vehicle and charger owners | [Website](https://www.splitev.co) |
+| **SplitEV** | EV charging discovery & booking for vehicle and charger owners | [Website](https://www.splitev.co) · [Play Store](https://play.google.com/store/apps/details?id=co.splitev.mobile.app) · [App Store](https://apps.apple.com/us/app/splitev/id6473368931) |
 | **AstroTerminal** | Astrology app · 100K+ downloads | [Play Store](https://play.google.com/store/apps/details?id=com.moolchakram.astroterminal) · [App Store](https://apps.apple.com/in/app/astroterminal/id1592676298) |
 | **Xspan.ai** | Production React Native app | [App Store](https://apps.apple.com/us/app/xspan/id6749350777) |
+| **Veterinary App** | Dual-brand pet healthcare — appointments, medical records, vaccination reminders | [Play Store (DFA)](https://play.google.com/store/apps/details?id=com.doctorforanimals.app) · [Play Store (Vetzz)](https://play.google.com/store/apps/details?id=org.vetzz.vetzzapplication) |
 
 ---
 
